@@ -33,5 +33,3 @@ Platform: Windows
 ```bash
 cmake -S . -B build
 cmake --build build
-=======
-Real-time Windows process monitor written in C++
