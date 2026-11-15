@@ -12,6 +12,8 @@ A real-time Windows process monitor written in C++ using the WinAPI.
 - Supports pagination using the left and right arrow keys.
 - Uses a separate console screen buffer to update the dashboard.
 
+To build a .exe file, the command "g++ -std=c++17 is sufficient. main.cpp ProcessManager.cpp Dashboard.cpp -o main".
+
 ## Technologies
 
 - C++
