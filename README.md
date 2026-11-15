@@ -33,4 +33,3 @@ cmake -S . -B build
 cmake --build build
 =======
 Real-time Windows process monitor written in C++
->>>>>>> 7de981ccc2bcfceceabb09c69792825aaa1e68ce
